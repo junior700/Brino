@@ -1,0 +1,74 @@
+#######################################
+# Syntax Colouring Map For PTconverter
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+PTconverter	KEYWORD1
+Numero      KEYWORD1
+NumeroDecimal   KEYWORD1
+NumeroLongo KEYWORD1
+Palavra     KEYWORD1
+VERDADEIRO  KEYWORD1
+FALSO       KEYWORD1
+Modulo      KEYWORD1
+Constante   KEYWORD1
+opcional    KEYWORD1
+USB         KEYWORD1
+Pino        KEYWORD1
+Pinos       KEYWORD1
+Memoria     KEYWORD1
+LCD         KEYWORD1
+Servo       KEYWORD1
+I2C         KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+soar              KEYWORD2
+definido          KEYWORD2
+paraSoar          KEYWORD2
+esperar           KEYWORD2
+proporcionar      KEYWORD2
+definir           KEYWORD2
+usar              KEYWORD2
+conectar          KEYWORD2
+enviar            KEYWORD2
+enviarln          KEYWORD2
+disponivel        KEYWORD2
+ler               KEYWORD2
+escrever          KEYWORD2
+definirModo       KEYWORD2
+escreverAnalogico KEYWORD2
+lerAnalogico      KEYWORD2
+ligar             KEYWORD2
+desligar          KEYWORD2
+Digitais          KEYWORD2
+Analogicos        KEYWORD2
+tamanho           KEYWORD2
+formatar          KEYWORD2
+conectar          KEYWORD2
+enviar            KEYWORD2
+posicao           KEYWORD2
+angulo            KEYWORD2
+servo             KEYWORD2
+escreverMicros    KEYWORD2
+frente            KEYWORD2
+tras              KEYWORD2
+parar             KEYWORD2
+angulo            KEYWORD2
+transmitir        KEYWORD2
+paraTransmitir    KEYWORD2
+disponivel        KEYWORD2
+solicitar         KEYWORD2
+recebido          KEYWORD2
+Configuracao      KEYWORD2
+Principal         KEYWORD2
+para              KEYWORD2
+se                KEYWORD2
+senao_faca        KEYWORD2
+enquanto          KEYWORD2
+
+##########################################################################################
+#  FIM
+#########################################################################################
